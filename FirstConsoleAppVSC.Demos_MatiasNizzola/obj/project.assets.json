@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola.csproj",
+      "projectUniqueName": "C:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola.csproj",
       "projectName": "FirstConsoleAppVSC.Demos_MatiasNizzola",
-      "projectPath": "c:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola.csproj",
+      "projectPath": "C:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola.csproj",
       "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\obj\\",
+      "outputPath": "C:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config",
