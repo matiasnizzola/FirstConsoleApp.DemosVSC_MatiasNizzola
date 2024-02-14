@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "L6OthRHN2Vg485nWQEK/EdZTApnacGfKOCY3WYycL3WJCJGSEh4DNdkXcqosXRiEzRFe0inrPW8px2j58llczQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\matia\\Documents\\Cursos\\C#\\FirstConsoleApp.DemosVSC_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola\\FirstConsoleAppVSC.Demos_MatiasNizzola.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.xmltravelgate.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\bin\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.exe
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\bin\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.deps.json
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\bin\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.runtimeconfig.json
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\bin\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.dll
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\bin\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.pdb
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.AssemblyInfoInputs.cache
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.AssemblyInfo.cs
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.csproj.CoreCompileInputs.cache
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.dll
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\refint\FirstConsoleAppVSC.Demos_MatiasNizzola.dll
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.pdb
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\FirstConsoleAppVSC.Demos_MatiasNizzola.genruntimeconfig.cache
+c:\Users\matia\Documents\Cursos\C#\FirstConsoleApp.DemosVSC_MatiasNizzola\FirstConsoleAppVSC.Demos_MatiasNizzola\obj\Debug\net8.0\ref\FirstConsoleAppVSC.Demos_MatiasNizzola.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FirstConsoleAppVSC.Demos_MatiasNizzola/1.0.0": {
+        "runtime": {
+          "FirstConsoleAppVSC.Demos_MatiasNizzola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstConsoleAppVSC.Demos_MatiasNizzola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
