@@ -37,3 +37,4 @@ Console.WriteLine($"Full name: {firstName} {lastName}");
 Console.WriteLine($"Age: {age}");
 Console.WriteLine($"Job: {job}");
 
+//EXAMPLE LINE FOR TESTING GITHUB ACCOUNT SWITCHING
